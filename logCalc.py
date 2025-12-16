@@ -2,7 +2,7 @@
 """
 Created on Fri Feb  7 15:45:16 2025
 
-@author: ericp
+@author: esp87
 """
 import math
 import tkinter as tk
@@ -70,3 +70,4 @@ clear_button.grid(row=7, column=0, columnspan=2, pady=5)
 
 # Run the GUI loop
 root.mainloop()
+
